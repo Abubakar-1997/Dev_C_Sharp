@@ -12,6 +12,7 @@ namespace DevCSharp
             Abubakar.AssignLastName();
             Abubakar.AssignYearOfBirth();
             Abubakar.AssignCurrentYear();
+
             Abubakar.DisplayPersonRecords();
         }
     }
